@@ -1,4 +1,5 @@
 🏦 Banking Data Analysis Dashboard
+
 📌 Project Overview:
 This project focuses on analyzing banking data to uncover customer behavior, transaction patterns, and key business insights. The data is processed and visualized through an interactive dashboard to support decision-making in the banking sector.
 
@@ -40,12 +41,20 @@ MySQL
    . Balance distribution
    . Account activity
    
-📈 Key Insights:
- . Identified active vs inactive customers
- . Observed transaction trends over time
- . Analyzed account balance distribution
- . Highlighted customer segments based on behavior
- 
+## ❓ Business Questions Solved
+- How many total customers are there?
+- What is the distribution of active vs inactive customers?
+- What is the average account balance?
+- How do transactions change over time?
+- How are customers segmented by balance?
+
+## 📈 Key Insights
+- Most customers fall under medium balance category
+- Active customers are higher than inactive
+- Transactions vary across months
+- High balance customers contribute more value
+
+
 📊 Dashboard Features:
  . KPI cards (Total Customers, Transactions, Balance)
  . Filters for customer segments
